@@ -58,7 +58,7 @@ public class HomePage extends javax.swing.JFrame {
             }
         });
 
-        jButton1.setText("search");
+        jButton1.setText("Search");
 
         jLayeredPane1.setLayer(jButton1, javax.swing.JLayeredPane.DEFAULT_LAYER);
 
